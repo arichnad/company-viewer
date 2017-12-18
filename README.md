@@ -21,3 +21,8 @@ You may choose any combination of the following languages.  Choose wisely.
 1. Java
 2. JavaScript (or any language that transpiles into javascript)
 
+
+Notes
+---
+ - No need to host this on a public server.  We can run it and test it locally.
+
