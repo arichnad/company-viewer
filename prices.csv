@@ -1,255 +1,255 @@
 id,ticker symbol,name,sector,hq,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017
-0,amzn,amazon inc,consumer discretionary,seattle washington,92.6,51.3,134.5,180.0,179.0,250.9,398.8,310.4,675.9,753.7,1179.1
-1,csco,cisco systems,information technology,san jose california,27.1,16.3,23.9,20.2,18.6,19.6,22.4,27.8,27.2,30.5,38.2
-2,fb,facebook inc.,information technology,menlo park california,,,,,,26.6,54.6,78.0,104.7,116.9,180.2
-3,v,visa inc.,information technology,san francisco california,,13.1,21.9,17.6,25.8,37.9,55.7,65.6,77.6,79.5,113.8
-4,intc,intel corp.,information technology,santa clara california,26.7,14.7,20.4,21.0,24.5,20.6,26.0,36.3,34.5,36.6,44.6
-5,msft,microsoft corp.,information technology,redmond washington,35.6,19.4,30.5,27.9,26.8,26.7,37.4,46.5,55.5,62.6,86.9
-6,vz,verizon communications,telecommunication services,new york new york,43.7,33.9,33.1,35.8,39.7,43.3,49.1,46.8,46.2,54.6,52.7
-7,cmcsa,comcast corp.,consumer discretionary,philadelphia pennsylvania,9.1,8.4,8.4,11.0,12.2,18.7,26.0,29.0,28.2,34.5,39.7
-8,aapl,apple inc.,information technology,cupertino california,28.3,12.2,30.1,46.1,58.8,76.0,80.2,110.4,105.3,116.2,174.0
-9,goog,alphabet inc class c,information technology,mountain view california,691.5,307.7,309.7,296.7,332.4,353.3,1120.7,526.4,758.9,786.1,1064.2
-10,t,at&t inc,telecommunication services,dallas texas,41.6,28.5,28.0,29.4,30.4,33.7,35.2,33.6,34.4,43.0,38.2
-11,orcl,oracle corp.,information technology,redwood shores california,22.6,17.7,24.5,31.3,25.9,33.3,38.3,45.0,36.5,38.6,48.3
-12,mcd,mcdonald's corp.,consumer discretionary,oak brook illinois,58.9,62.2,62.4,76.8,98.8,88.2,97.0,93.7,118.1,119.6,174.1
-13,nke,nike,consumer discretionary,washington county oregon,16.1,12.8,16.5,21.4,24.2,25.8,39.3,48.1,62.5,52.0,64.8
-14,pcln,priceline inc,consumer discretionary,norwalk connecticut,114.9,73.7,218.4,399.6,485.2,620.4,1162.4,1140.2,1275.0,1477.6,1760.0
-15,sbux,starbucks corp.,consumer discretionary,seattle washington,10.2,4.7,11.5,16.1,22.6,26.8,39.2,41.0,60.0,55.4,58.3
-16,chtr,charter communications,consumer discretionary,stamford connecticut,,,,,,,,,,285.8,322.3
-17,low,lowe's cos.,consumer discretionary,mooresville north carolina,22.6,21.5,23.4,25.1,25.5,35.5,49.6,68.8,76.0,71.0,86.7
-18,twx,time warner inc.,consumer discretionary,new york new york,49.5,30.2,29.1,32.2,36.3,47.8,69.7,85.4,64.7,96.8,90.3
-19,fox,twenty-first century fox class b,consumer discretionary,new york new york,21.3,9.6,15.9,16.4,18.7,26.2,34.6,,27.2,28.0,34.2
-20,foxa,twenty-first century fox class a,consumer discretionary,new york new york,21.3,9.1,13.7,14.6,18.4,25.5,35.2,38.4,27.2,28.7,35.0
-21,gm,general motors,consumer discretionary,detroit michigan,,,,36.9,21.1,28.8,40.9,34.9,34.0,35.2,41.0
-22,f,ford motor,consumer discretionary,dearborn michigan,6.7,2.3,10.0,16.8,,13.0,15.4,15.5,,12.6,12.6
-23,mar,marriott int'l.,consumer discretionary,bethesda maryland,34.2,19.5,27.3,41.5,30.0,37.3,49.4,78.0,67.0,82.5,129.8
-24,tjx,tjx companies inc.,consumer discretionary,framingham massachusetts,14.4,10.3,18.3,22.2,31.9,42.5,63.7,68.6,70.9,75.5,74.2
-25,ccl,carnival corp.,consumer discretionary,miami florida,44.5,24.3,31.7,46.1,33.0,36.8,40.2,45.3,54.5,52.1,66.0
-26,tgt,target corp.,consumer discretionary,minneapolis minnesota,50.0,34.5,48.4,60.1,51.1,59.2,63.3,75.9,72.6,72.8,62.6
-27,rost,ross stores,consumer discretionary,pleasanton california,6.4,7.4,10.7,15.8,23.6,27.0,37.5,47.1,53.8,65.6,76.0
-28,vfc,v.f. corp.,consumer discretionary,greensboro north carolina,17.2,13.7,18.3,21.5,32.4,37.7,62.3,74.9,62.3,53.4,74.4
-29,yum,yum! brands inc,consumer discretionary,louisville kentucky,38.3,31.5,35.0,49.1,58.6,66.4,75.6,72.9,73.1,63.2,82.3
-30,rcl,royal caribbean cruises ltd,consumer discretionary,miami florida,42.4,13.8,25.3,47.0,25.9,34.0,47.4,82.4,101.2,83.9,125.1
-31,dltr,dollar tree,consumer discretionary,chesapeake virginia,8.6,13.9,16.1,28.0,41.2,40.6,56.4,70.4,77.2,77.5,106.3
-32,swk,stanley black & decker,consumer discretionary,new britain connecticut,48.5,34.1,51.5,66.9,70.2,74.0,80.7,96.1,106.7,115.8,165.7
-33,dg,dollar general,consumer discretionary,goodlettsville tennessee,,,22.4,30.7,41.1,44.1,60.3,70.7,71.9,74.2,90.9
-34,hlt,hilton worldwide holdings inc,consumer discretionary,tysons corner virginia,,,,,,,200.3,,192.6,169.7,77.1
-35,cbs,cbs corp.,consumer discretionary,new york new york,27.3,8.2,14.1,19.1,27.3,38.1,63.7,55.3,47.1,64.4,58.9
-36,dish,dish network,consumer discretionary,meridian colorado,37.7,11.1,20.8,19.7,29.1,36.4,57.9,72.9,57.2,59.7,48.6
-37,aptv,aptiv plc,consumer discretionary,gillingham kent united kingdom,,,,,22.2,38.3,60.1,72.7,85.7,67.5,84.4
-38,orly,o'reilly automotive,consumer discretionary,springfield missouri,32.4,30.7,38.1,60.4,78.2,89.4,128.7,192.6,253.4,280.8,240.2
-39,mhk,mohawk industries,consumer discretionary,amsterdam new york,74.4,43.0,47.6,56.8,,,148.9,,189.4,201.8,274.7
-40,bby,best buy co. inc.,consumer discretionary,richfield minnesota,52.7,28.1,39.5,34.3,23.7,,39.9,39.0,30.5,42.8,65.3
-41,azo,autozone inc,consumer discretionary,memphis tennessee,119.9,139.5,158.1,272.6,319.8,354.4,477.9,619.1,741.9,791.5,697.1
-42,dhi,d. r. horton,consumer discretionary,fort worth texas,13.2,7.1,10.9,11.9,13.0,19.8,22.3,25.3,32.0,27.6,50.6
-43,mgm,mgm resorts international,consumer discretionary,paradise nevada,84.0,13.8,9.1,14.9,11.1,11.6,23.5,21.4,22.7,29.5,32.9
-44,expe,expedia inc.,consumer discretionary,bellevue washington,31.6,8.2,25.7,23.6,29.7,61.4,69.7,85.4,124.3,112.4,120.9
-45,lb,l brands inc.,consumer discretionary,columbus ohio,18.9,10.0,19.2,30.7,39.2,47.1,61.9,86.6,95.8,66.6,58.1
-46,wynn,wynn resorts ltd,consumer discretionary,paradise nevada,112.1,42.3,58.2,103.8,114.0,112.5,194.2,148.8,69.2,87.5,166.0
-47,omc,omnicom group,consumer discretionary,new york new york,47.5,26.9,39.2,45.8,45.0,50.0,74.4,77.5,75.7,85.1,74.4
-48,nwl,newell brands,consumer discretionary,sandy springs georgia,25.9,9.8,,18.2,16.2,22.3,32.4,38.1,44.1,44.9,30.6
-49,len,lennar corp.,consumer discretionary,miami florida,17.9,8.7,12.8,18.8,19.9,38.7,39.6,44.8,48.9,42.9,61.4
-50,gpc,genuine parts,consumer discretionary,atlanta georgia,46.3,37.9,38.0,51.3,61.7,63.6,83.2,106.6,85.9,95.6,92.0
-51,ulta,ulta salon cosmetics & fragrance inc,consumer discretionary,bolingbrook illinois,17.2,8.3,18.2,34.0,64.1,98.3,96.5,127.8,185.0,256.7,218.3
-52,gps,gap inc.,consumer discretionary,san francisco california,21.3,13.4,21.0,22.1,18.6,31.0,39.1,42.1,24.7,23.5,33.6
-53,viab,viacom inc.,consumer discretionary,new york new york,43.9,19.1,29.7,39.6,45.9,52.7,87.3,75.3,41.2,35.9,30.2
-54,nclh,norwegian cruise line,consumer discretionary,miami florida,,,,,,,35.5,46.8,58.6,42.8,54.0
-55,lkq,lkq corporation,consumer discretionary,chicago illinois,10.5,5.8,9.8,11.4,15.4,21.1,32.9,28.1,29.6,31.0,39.5
-56,kmx,carmax inc,consumer discretionary,richmond virginia,19.8,7.9,24.3,31.9,30.5,37.5,47.0,66.6,54.0,64.8,67.7
-57,tif,tiffany & co.,consumer discretionary,new york new york,46.0,23.6,43.0,62.3,66.5,57.3,92.8,106.9,76.3,77.8,101.3
-58,tpr,tapestry inc.,consumer discretionary,new york new york,30.6,20.8,36.5,55.3,60.0,55.5,56.1,37.6,32.7,35.5,42.8
-59,whr,whirlpool corp.,consumer discretionary,benton harbor michigan,81.6,41.4,80.7,88.8,48.5,101.8,156.9,193.7,146.9,182.9,164.5
-60,wyn,wyndham worldwide,consumer discretionary,parsippany new jersey,23.6,6.6,20.2,30.0,37.4,53.2,73.7,85.8,72.7,76.0,112.6
-61,has,hasbro inc.,consumer discretionary,pawtucket rhode island,25.6,29.2,32.1,,32.1,35.9,,,67.4,,94.1
-62,dri,darden restaurants,consumer discretionary,orlando florida,27.7,28.2,35.1,46.4,44.7,45.1,54.4,58.6,63.6,72.1,88.4
-63,grmn,garmin ltd.,consumer discretionary,schaffhausen switzerland,97.0,19.2,30.7,31.0,39.6,40.8,46.2,52.8,37.2,49.2,58.4
-64,bwa,borgwarner,consumer discretionary,auburn hills michigan,24.2,10.9,16.6,36.2,32.7,35.8,55.9,55.0,43.2,40.1,51.5
-65,sni,scripps networks interactive inc.,consumer discretionary,cincinnati ohio,,22.0,41.5,51.8,43.2,57.9,86.4,75.3,55.2,72.4,83.2
-66,pvh,pvh corp.,consumer discretionary,new york new york,36.9,20.1,40.7,63.0,71.2,111.0,136.0,128.2,73.7,91.0,134.0
-67,phm,pulte homes inc.,consumer discretionary,atlanta georgia,10.5,10.9,10.0,7.5,6.5,18.2,20.4,21.5,,18.6,33.4
-68,sna,snap-on inc.,consumer discretionary,kenosha wisconsin,48.2,39.4,42.3,56.6,51.2,79.0,109.5,136.7,171.4,171.2,168.2
-69,kors,michael kors holdings,consumer discretionary,new york new york,,,,,27.2,51.0,81.2,75.1,40.1,43.1,61.7
-70,nwsa,news corp. class a,consumer discretionary,new york new york,,,,,,,18.0,15.7,13.4,11.7,16.0
-71,nws,news corp. class b,consumer discretionary,new york new york,,,,,,,17.8,15.1,14.0,12.1,16.4
-72,kss,kohl's corp.,consumer discretionary,menomonee falls wisconsin,45.8,36.2,53.9,54.3,48.0,43.0,56.8,61.0,47.6,49.8,51.4
-73,cmg,chipotle mexican grill,consumer discretionary,denver colorado,147.1,62.0,88.2,212.7,341.3,297.5,532.8,684.5,479.9,374.8,312.1
-74,tsco,tractor supply company,consumer discretionary,brentwood tennessee,9.0,9.0,13.2,24.2,34.7,44.2,77.6,78.8,85.5,75.9,68.4
-75,hog,harley-davidson,consumer discretionary,milwaukee wisconsin,46.7,17.0,25.2,,39.3,48.8,69.2,,45.4,58.9,50.5
-76,mo,altria group inc,consumer staples,richmond virginia,75.6,15.1,19.6,24.6,28.6,31.4,38.4,49.3,58.2,67.6,71.7
-77,khc,kraft heinz co,consumer staples,pittsburgh pennsylvania,,,,,,,,,72.8,87.5,79.5
-78,cost,costco wholesale corp.,consumer staples,issaquah washington,69.8,52.5,59.2,72.2,84.6,98.7,119.0,141.8,161.5,159.7,192.7
-79,cvs,cvs health,consumer staples,woonsocket rhode island,39.8,28.7,32.2,,41.5,48.4,71.6,96.3,97.8,80.4,73.1
-80,wba,walgreens boots alliance,consumer staples,deerfield illinois,,,,,,,,76.2,85.2,83.0,71.9
-81,cl,colgate-palmolive,consumer staples,new york new york,39.0,34.3,41.1,40.2,45.5,52.3,65.2,69.2,66.6,65.5,74.1
-82,mdlz,mondelez international,consumer staples,northfield illinois,,,,,,25.5,35.3,36.3,44.8,44.9,43.4
-83,el,estee lauder cos.,consumer staples,new york new york,21.8,15.5,24.2,40.4,56.2,59.9,75.3,76.2,88.1,77.3,129.6
-84,stz,constellation brands,consumer staples,victor new york,23.6,15.8,15.9,22.2,20.7,35.4,70.4,98.2,142.4,154.8,224.4
-85,kmb,kimberly-clark,consumer staples,irving texas,69.3,52.7,63.7,63.0,73.2,84.4,104.5,115.5,127.3,114.6,118.5
-86,mnst,monster beverage,consumer staples,corona california,,,,,,,,,49.7,45.5,64.0
-87,gis,general mills,consumer staples,golden valley minnesota,28.5,30.4,35.4,35.6,40.3,40.4,49.9,53.3,57.7,62.1,56.9
-88,syy,sysco corp.,consumer staples,houston texas,31.2,22.9,27.9,29.4,29.5,31.7,36.1,39.7,41.0,55.0,61.0
-89,tsn,tyson foods,consumer staples,springdale arkansas,15.3,8.8,12.3,17.2,20.3,19.4,33.5,40.1,53.3,62.6,81.3
-90,mmm,3m company,industrials,st. paul minnesota,84.3,57.5,82.7,86.3,83.5,92.9,140.3,164.3,150.6,178.1,238.0
-91,hon,honeywell int'l inc.,industrials,morristown new jersey,61.6,,39.2,53.2,55.6,63.5,91.4,99.9,103.6,116.2,154.3
-92,unp,union pacific,industrials,omaha nebraska,125.6,23.9,32.0,46.3,54.0,62.9,84.0,119.1,78.2,102.5,130.6
-93,ups,united parcel service,industrials,atlanta georgia,70.7,55.2,57.4,72.6,,73.7,105.1,111.2,96.2,115.1,118.0
-94,utx,united technologies,industrials,hartford connecticut,76.5,53.6,69.4,78.7,,82.0,113.8,115.0,96.1,110.8,126.2
-95,lmt,lockheed martin corp.,industrials,bethesda maryland,105.3,84.1,75.4,69.9,82.0,92.3,148.7,192.6,217.2,253.3,322.8
-96,cat,caterpillar inc.,industrials,peoria illinois,72.6,44.7,57.0,93.7,94.0,89.6,90.8,91.5,68.0,94.0,146.7
-97,fdx,fedex corporation,industrials,memphis tennessee,89.2,64.2,83.5,93.0,,91.7,143.8,173.7,149.0,187.7,240.1
-98,gd,general dynamics,industrials,falls church virginia,89.0,57.6,68.2,71.0,68.0,69.3,95.6,137.6,137.4,175.5,198.8
-99,itw,illinois tool works,industrials,glenview illinois,53.5,35.1,48.0,53.4,48.0,60.8,84.1,94.7,92.7,122.5,165.2
-100,rtn,raytheon co.,industrials,waltham massachusetts,60.7,51.0,51.5,46.3,48.5,57.6,90.7,108.2,124.5,145.2,191.4
-101,noc,northrop grumman corp.,industrials,west falls church virginia,78.6,45.0,55.9,64.8,58.7,67.6,114.6,147.4,188.8,234.9,310.5
-102,de,deere & co.,industrials,moline illinois,93.1,38.3,54.1,83.1,79.3,86.4,91.3,88.5,76.3,104.1,150.9
-103,csx,csx corp.,industrials,jacksonville florida,44.0,32.5,48.5,64.6,22.0,19.7,28.8,36.2,26.0,35.9,52.9
-104,emr,emerson electric company,industrials,ferguson missouri,56.7,36.6,42.6,57.2,47.7,53.0,70.2,61.7,47.8,57.0,67.3
-105,nsc,norfolk southern corp.,industrials,norfolk virginia,50.4,47.1,52.4,62.8,73.8,61.8,92.8,109.6,84.6,107.0,141.1
-106,dal,delta air lines inc.,industrials,atlanta georgia,14.9,11.5,11.4,12.6,,11.9,27.5,49.2,50.7,49.5,56.1
-107,luv,southwest airlines,industrials,dallas texas,12.2,8.6,11.4,13.0,8.4,10.2,18.8,42.3,43.1,50.0,64.7
-108,wm,waste management inc.,industrials,houston texas,32.7,33.1,33.8,36.9,32.8,33.7,44.9,51.3,53.4,70.5,85.9
-109,jci,johnson controls international,industrials,cork ireland,,,,,,,,45.9,33.4,42.4,37.3
-110,etn,eaton corporation,industrials,dublin ireland,48.5,,,,,54.2,76.1,68.0,52.0,68.5,77.3
-111,cmi,cummins inc.,industrials,columbus indiana,63.7,26.7,45.9,110.0,91.1,108.4,141.0,144.2,88.0,139.8,169.6
-112,rop,roper technologies,industrials,sarasota florida,62.5,43.4,52.4,76.4,88.2,111.5,138.7,156.4,189.8,184.9,252.6
-113,ph,parker-hannifin,industrials,cleveland ohio,75.3,42.5,53.9,86.3,78.8,85.1,128.6,129.0,97.0,142.6,194.3
-114,ftv,fortive corp,industrials,everett washington,,,,,,,,,,53.7,72.1
-115,pcar,paccar inc.,industrials,bellevue washington,54.5,28.6,36.3,57.3,38.8,45.2,59.2,68.0,47.4,65.3,69.2
-116,rok,rockwell automation inc.,industrials,milwaukee wisconsin,69.0,32.2,47.0,71.7,75.7,84.0,118.2,111.2,102.6,138.5,190.9
-117,aal,american airlines group,industrials,fort worth texas,,,,,,,25.3,53.6,42.4,46.3,51.1
-118,rsg,republic services inc,industrials,phoenix arizona,31.4,24.8,28.3,29.9,27.6,29.3,33.2,40.3,44.0,56.9,66.1
-119,col,rockwell collins,industrials,cedar rapids iowa,72.0,39.1,55.4,58.3,56.2,58.2,73.9,84.5,92.3,93.1,134.5
-120,ir,ingersoll-rand plc,industrials,dublin ireland,46.5,17.4,35.7,47.1,32.1,48.0,61.6,63.4,55.3,75.9,86.8
-121,ual,united continental holdings,industrials,chicago illinois,35.7,11.0,12.9,23.8,18.9,23.4,37.8,66.9,57.3,72.7,63.8
-122,info,ihs markit ltd.,industrials,london united kingdom,,,,,,,,26.4,30.2,35.9,45.5
-123,ctas,cintas corporation,industrials,mason ohio,33.6,23.2,26.1,28.0,35.2,40.9,59.6,78.4,91.1,116.3,158.0
-124,ame,ametek inc,industrials,berwyn pennsylvania,46.8,13.4,38.2,26.2,28.2,37.6,52.7,52.6,53.6,49.2,71.2
-125,vrsk,verisk analytics,industrials,jersey city new jersey,,,30.3,34.1,39.4,51.0,65.7,64.1,76.9,81.3,95.0
-126,fast,fastenal co,industrials,winona minnesota,20.2,17.4,20.8,30.0,43.8,46.7,47.5,47.6,40.8,47.0,53.3
-127,dov,dover corp.,industrials,downers grove illinois,46.1,32.9,41.6,58.5,59.1,65.7,96.5,71.7,61.3,76.4,97.5
-128,lll,l-3 communications holdings,industrials,new york new york,105.9,73.8,87.0,70.5,67.5,76.6,106.9,126.2,119.5,152.3,195.1
-129,txt,textron inc.,industrials,providence rhode island,71.3,13.9,18.8,23.6,18.6,24.8,36.8,42.1,42.0,49.3,55.2
-130,tdg,transdigm group,industrials,cleveland ohio,45.2,33.6,47.5,72.0,94.1,136.4,161.0,196.4,228.5,250.5,276.6
-131,efx,equifax inc.,industrials,atlanta georgia,36.4,26.5,30.9,35.6,38.8,54.1,69.1,80.9,111.4,118.8,119.5
-132,uri,united rentals inc.,industrials,stamford connecticut,18.4,9.1,9.8,22.8,29.0,45.5,78.0,102.0,72.5,109.3,164.3
-133,mas,masco corp.,industrials,taylor michigan,21.6,11.1,13.8,12.7,11.0,16.7,22.8,25.2,28.3,32.2,42.3
-134,nlsn,nielsen holdings,industrials,new york new york,,,,,,,,,46.6,42.3,37.2
-135,gww,grainger (w.w.) inc.,industrials,lake forest illinois,87.5,78.8,96.8,138.1,185.6,202.4,255.4,254.9,202.6,234.5,230.0
-136,jbht,j. b. hunt transport services,industrials,lowell arkansas,27.6,26.3,32.3,40.8,45.3,59.7,77.3,84.3,73.4,96.8,112.4
-137,pnr,pentair ltd.,industrials,worsley uk,,,,,,,,66.4,49.5,58.0,68.2
-138,arnc,arconic inc,industrials,new york new york,109.7,33.8,48.4,46.2,27.7,26.0,31.9,47.4,29.6,19.2,25.3
-139,chrw,c. h. robinson worldwide,industrials,eden prairie minnesota,54.1,,58.7,80.2,69.8,63.2,58.4,74.9,62.0,72.9,86.2
-140,xyl,xylem inc.,industrials,white plains new york,,,,,25.1,27.1,34.6,38.1,36.5,49.7,67.6
-141,expd,expeditors international,industrials,seattle washington,44.7,33.3,34.8,54.6,41.3,39.6,44.3,44.6,45.1,53.1,64.4
-142,ksu,kansas city southern,industrials,kansas city missouri,34.3,19.1,33.3,47.9,68.7,83.5,123.8,122.0,74.7,80.8,111.0
-143,aos,a.o. smith corp,industrials,milwaukee wisconsin,35.1,4.9,7.2,38.1,41.3,15.8,53.9,56.4,76.6,47.5,60.7
-144,fbhs,fortune brands home & security,industrials,deerfield illinois,,,,,16.8,29.2,45.7,45.3,55.5,53.9,66.4
-145,alk,alaska air group inc,industrials,seattle washington,6.3,7.3,8.6,14.2,18.5,21.5,36.7,59.8,80.5,88.0,70.8
-146,ma,mastercard inc.,information technology,harrison new york,21.5,14.3,25.6,22.4,36.8,49.1,83.6,86.2,97.4,105.4,153.4
-147,ibm,international business machines,information technology,armonk new york,108.1,84.2,130.9,146.8,186.3,191.6,187.6,160.4,137.6,167.2,152.5
-148,nvda,nvidia corporation,information technology,santa clara california,34.0,8.1,18.7,15.4,14.0,12.3,16.0,20.1,33.0,102.0,191.6
-149,avgo,broadcom,information technology,san jose california,,,,,,,,,,178.3,265.7
-150,txn,texas instruments,information technology,dallas texas,33.4,15.5,26.1,32.5,29.8,30.9,43.9,53.5,54.8,73.6,101.2
-151,acn,accenture plc,information technology,dublin ireland,36.0,32.8,41.5,48.5,53.0,66.5,82.2,89.3,104.5,116.5,152.7
-152,qcom,qualcomm inc.,information technology,san diego california,39.4,35.8,46.3,49.5,55.3,61.9,74.3,74.3,50.0,65.4,64.8
-153,pypl,paypal,information technology,san jose california,,,,,,,,,36.2,40.3,75.7
-154,adbe,adobe systems inc,information technology,san jose california,42.7,21.3,36.8,30.8,28.6,37.7,59.9,72.7,93.9,103.5,177.5
-155,nflx,netflix inc.,information technology,los gatos california,3.8,4.3,7.9,25.1,10.3,13.2,52.6,48.8,114.4,127.5,190.1
-156,crm,salesforce,information technology,san francisco california,15.7,8.0,18.4,33.0,25.3,42.0,55.2,59.3,78.4,70.5,105.5
-157,amat,applied materials inc,information technology,santa clara california,17.8,10.1,13.9,,,11.4,17.7,,18.7,31.9,52.5
-158,adp,automatic data processing,information technology,roseland new jersey,44.5,39.3,42.8,46.3,54.5,56.9,80.8,83.4,84.7,103.5,118.2
-159,mu,micron technology,information technology,boise idaho,,,10.6,8.0,6.8,6.3,,35.0,14.2,22.6,42.4
-160,atvi,activision blizzard,information technology,santa monica california,14.9,8.6,11.1,12.4,12.2,10.6,17.8,20.2,38.7,36.6,66.7
-161,ctsh,cognizant technology solutions,information technology,teaneck new jersey,17.0,9.0,22.7,36.6,32.9,36.9,50.5,52.7,60.0,56.5,72.1
-162,intu,intuit inc.,information technology,mountain view california,31.6,23.8,30.7,49.3,52.5,59.5,76.3,92.2,96.5,114.8,159.7
-163,ebay,ebay inc.,information technology,san jose california,33.2,14.0,23.5,27.8,31.3,51.0,54.9,56.1,27.5,29.8,38.4
-164,hpq,hp inc.,information technology,palo alto california,50.5,36.3,51.5,42.1,26.6,14.3,28.0,40.1,11.8,14.9,20.9
-165,tel,te connectivity ltd.,information technology,schaffhausen switzerland,37.1,16.2,24.6,35.4,31.5,37.1,55.1,63.3,64.6,69.0,96.2
-166,ea,electronic arts,information technology,redwood city california,58.4,16.0,17.8,16.4,21.3,14.5,22.9,47.0,68.7,79.2,109.3
-167,adi,analog devices inc.,information technology,norwood massachusetts,,,,,,42.1,50.9,55.5,55.3,72.5,86.7
-168,fis,fidelity national information services,information technology,jacksonville florida,41.6,16.3,23.4,27.4,26.7,34.8,53.7,62.2,60.6,77.0,94.8
-169,lrcx,lam research,information technology,fremont california,43.2,21.3,39.2,51.8,36.8,36.1,54.5,79.3,79.4,107.3,186.3
-170,glw,corning inc.,information technology,corning new york,24.0,9.5,19.3,19.3,13.0,12.6,,22.9,18.3,24.3,32.1
-171,fisv,fiserv inc,information technology,brookfield wisconsin,27.7,18.2,24.2,29.3,29.3,39.5,59.1,71.0,91.5,107.3,132.0
-172,aph,amphenol corp,information technology,wallingford connecticut,46.4,24.0,46.2,105.6,91.9,129.4,178.4,53.8,52.2,67.4,89.1
-173,dxc,dxc technology,information technology,tysons corner virginia,,,,,,,,,,,95.3
-174,payx,paychex inc.,information technology,penfield new york,36.2,26.3,30.6,30.9,30.4,31.1,45.5,46.2,52.9,61.1,69.8
-175,wdc,western digital,information technology,irvine california,30.2,11.5,44.2,33.9,31.0,42.5,83.9,110.7,60.1,69.4,81.6
-176,hpe,hewlett packard enterprise,information technology,palo alto california,,,,,,,,,15.2,23.2,14.4
-177,adsk,autodesk inc,information technology,san rafael california,49.8,19.7,25.4,38.2,30.8,35.4,50.3,60.1,60.9,76.2,108.4
-178,rht,red hat inc.,information technology,raleigh north carolina,20.8,13.2,30.9,45.7,41.7,53.0,56.0,69.1,82.8,70.1,128.8
-179,mchp,microchip technology,information technology,chandler arizona,31.4,19.5,29.1,34.2,35.8,32.6,44.8,45.1,46.5,63.9,86.8
-180,symc,symantec corp.,information technology,mountain view california,16.1,13.5,17.9,16.7,15.8,18.8,23.6,25.7,21.0,24.0,29.0
-181,swks,skyworks solutions,information technology,woburn massachusetts,8.5,5.5,14.2,28.6,16.8,,28.6,72.7,,75.2,94.6
-182,klac,kla-tencor corp.,information technology,milpitas california,48.2,21.8,36.2,38.6,47.5,47.8,64.5,70.3,69.4,79.4,105.6
-183,xlnx,xilinx inc,information technology,san jose california,21.9,17.8,25.1,29.0,32.4,35.9,45.9,43.3,47.0,59.1,68.0
-184,hrs,harris corporation,information technology,melbourne florida,62.7,38.1,47.6,45.3,36.7,49.0,69.8,71.8,86.9,102.7,144.1
-185,gpn,global payments inc,information technology,atlanta georgia,23.3,16.4,26.9,23.1,24.1,22.7,32.5,40.4,64.5,70.5,100.8
-186,ntap,netapp,information technology,sunnyvale california,25.0,14.0,34.4,55.0,36.8,33.6,41.1,41.5,26.5,35.6,57.3
-187,msi,motorola solutions inc.,information technology,schaumburg illinois,65.7,18.1,31.8,37.2,46.6,55.7,67.5,67.1,68.5,83.6,93.2
-188,tss,total system services,information technology,columbus georgia,28.0,14.0,17.3,15.4,19.9,21.4,33.3,34.0,49.8,51.4,77.8
-189,ca,ca inc.,information technology,islandia new york,25.0,18.5,22.5,24.4,20.3,22.0,33.7,30.5,28.6,32.3,33.7
-190,ads,alliance data systems,information technology,plano texas,75.0,46.5,64.6,71.0,102.8,144.8,262.9,286.1,276.6,233.0,239.8
-191,ctxs,citrix systems,information technology,fort lauderdale florida,19.0,11.8,20.8,34.2,31.0,32.8,31.6,31.9,37.8,,87.5
-192,snps,synopsys inc.,information technology,mountain view california,25.9,18.5,22.3,26.9,27.0,31.8,40.6,43.5,45.6,59.4,87.9
-193,anss,ansys,information technology,canonsburg pennsylvania,41.5,27.9,43.5,52.1,57.4,67.3,87.2,82.0,92.5,93.4,148.0
-194,stx,seagate technology,information technology,dublin ireland,25.5,4.4,18.2,15.0,16.4,30.4,56.2,66.5,36.7,39.6,42.0
-195,cdns,cadence design systems,information technology,san jose california,17.0,3.7,6.0,8.3,10.3,13.5,14.0,19.0,20.8,25.3,43.7
-196,vrsn,verisign inc.,information technology,dulles virginia,37.6,19.1,24.2,32.7,35.8,38.8,59.8,57.0,87.4,77.3,115.0
-197,it,gartner inc,information technology,stamford connecticut,17.6,17.8,18.0,,34.7,46.0,,84.2,90.7,99.9,122.5
-198,akam,akamai technologies inc,information technology,cambridge massachusetts,34.6,15.1,25.3,47.1,32.9,40.9,47.2,63.0,52.6,67.6,57.8
-199,jnpr,juniper networks,information technology,sunnyvale california,33.2,17.5,26.7,36.9,21.0,19.7,22.6,22.3,27.6,28.6,28.4
-200,amd,advanced micro devices inc,information technology,sunnyvale california,7.5,2.2,9.7,8.2,5.5,2.4,3.9,2.7,2.9,11.4,10.3
-201,wu,western union co,information technology,englewood colorado,24.3,14.3,18.9,18.6,18.6,13.6,17.3,17.9,17.9,22.0,19.5
-202,dwdp,dowdupont,materials,midland michigan,,,,,,,,,,,70.0
-203,mon,monsanto co.,materials,creve coeur missouri,111.7,70.4,81.8,69.6,71.9,94.7,116.6,119.5,98.5,105.3,117.4
-204,px,praxair inc.,materials,danbury connecticut,88.7,59.4,80.3,95.5,107.9,109.5,130.0,129.6,102.4,116.9,149.6
-205,lyb,lyondellbasell,materials,rotterdam netherlands,,,,34.4,33.5,57.1,80.3,79.4,86.9,86.9,106.0
-206,ecl,ecolab inc.,materials,st. paul minnesota,51.2,35.2,44.6,50.4,58.0,71.9,104.3,104.5,114.4,118.0,135.2
-207,shw,sherwin-williams,materials,cleveland ohio,58.0,59.8,61.7,83.8,91.0,153.8,183.5,263.0,259.6,274.5,403.8
-208,apd,air products & chemicals inc,materials,allentown pennsylvania,98.6,50.3,81.1,91.0,86.4,84.0,111.8,144.2,130.1,143.4,160.4
-209,ppg,ppg industries,materials,pittsburgh pennsylvania,140.5,84.9,117.1,168.1,170.2,270.7,94.8,115.6,98.8,95.3,115.1
-210,fcx,freeport-mcmoran inc.,materials,phoenix arizona,51.2,12.2,40.1,60.0,39.5,34.2,37.7,23.4,6.8,13.8,17.0
-211,ip,international paper,materials,memphis tennessee,32.4,11.8,26.8,27.2,30.0,39.8,49.0,53.6,37.7,53.4,56.3
-212,nue,nucor corp.,materials,charlotte north carolina,59.2,46.2,46.7,43.8,40.5,43.2,53.4,49.1,40.3,59.6,60.1
-213,nem,newmont mining corporation,materials,denver colorado,48.8,40.7,47.3,61.4,62.1,46.4,23.0,18.9,18.0,34.6,35.9
-214,wrk,westrock company,materials,richmond virginia,,,,,,,,,45.6,51.2,63.1
-215,vmc,vulcan materials,materials,birmingham alabama,79.1,69.6,52.7,44.4,39.7,52.1,59.4,65.7,95.0,124.6,120.8
-216,alb,albemarle corp,materials,baton rouge louisiana,41.3,22.3,36.4,55.8,52.7,62.1,63.4,60.1,56.0,88.1,129.6
-217,bll,ball corp,materials,broomfield colorado,11.3,10.4,12.9,17.0,18.2,22.4,25.8,34.1,36.4,37.9,39.4
-218,emn,eastman chemical,materials,kingsport tennessee,30.5,15.9,30.1,42.0,40.2,68.1,80.7,75.9,67.5,75.9,90.2
-219,mlm,martin marietta materials,materials,raleigh north carolina,132.6,97.1,89.4,92.2,75.7,94.3,99.9,110.3,136.6,223.3,204.4
-220,fmc,fmc corporation,materials,philadelphia pennsylvania,27.3,22.4,27.9,39.9,43.8,58.5,75.5,57.0,39.1,57.0,92.2
-221,iff,intl flavors & fragrances,materials,new york new york,48.1,29.7,41.1,55.6,52.9,66.5,86.0,101.4,119.6,117.2,154.2
-222,pkg,packaging corporation of america,materials,lake forest illinois,28.2,13.5,23.0,25.8,25.2,38.5,63.3,78.1,63.1,85.0,115.3
-223,avy,avery dennison corp,materials,glendale california,53.1,32.7,36.5,42.3,29.3,34.9,50.2,51.9,62.7,70.1,115.9
-224,cf,cf industries holdings inc,materials,deerfield illinois,22.0,9.8,18.2,27.0,30.8,40.6,46.6,54.5,40.8,31.9,41.1
-225,see,sealed air,materials,elmwood park new jersey,23.1,14.9,21.9,25.5,17.4,17.5,34.1,42.4,44.6,46.5,48.7
-226,mos,the mosaic company,materials,plymouth minnesota,94.3,34.6,59.7,76.4,52.6,56.6,47.3,45.7,27.6,29.5,24.9
-227,ctl,centurylink inc,telecommunication services,monroe louisiana,41.5,27.3,36.2,46.2,37.3,39.1,31.9,39.6,25.2,25.4,17.0
-228,nee,nextera energy,utilities,juno beach florida,67.8,50.3,52.8,52.0,59.0,69.2,85.6,106.3,103.9,118.7,158.4
-229,duk,duke energy,utilities,charlotte north carolina,60.5,45.0,51.6,53.4,64.9,63.8,69.0,83.5,71.4,77.7,87.8
-230,d,dominion energy,utilities,richmond virginia,47.5,35.8,38.9,42.7,52.5,51.8,64.7,76.9,67.6,76.3,84.9
-231,so,southern co.,utilities,atlanta georgia,38.8,37.0,33.3,38.2,45.0,42.8,41.1,49.1,46.8,49.0,51.3
-232,exc,exelon corp.,utilities,chicago illinois,81.6,55.6,48.9,41.6,42.1,29.7,27.4,37.1,27.8,35.2,40.7
-233,aep,american electric power,utilities,columbus ohio,46.6,33.3,34.8,36.0,40.8,42.7,46.7,60.7,58.3,,76.5
-234,sre,sempra energy,utilities,san diego california,61.9,42.6,56.0,52.5,54.8,70.9,89.8,111.4,94.0,101.1,116.5
-235,ed,consolidated edison,utilities,new york new york,48.9,38.9,45.4,49.6,60.7,55.5,55.3,66.0,64.3,73.6,88.2
-236,pcg,pg&e corp.,utilities,san francisco california,43.1,38.7,44.7,47.8,40.8,40.2,40.3,53.2,53.2,60.4,53.1
-237,peg,public serv. enterprise inc.,utilities,newark new jersey,49.1,29.2,33.3,31.8,31.8,30.6,32.0,41.4,38.7,43.4,52.3
-238,xel,xcel energy inc,utilities,minneapolis minnesota,22.6,18.6,21.2,23.6,27.3,26.7,27.9,35.9,35.9,40.6,50.8
-239,ppl,ppl corp.,utilities,allentown pennsylvania,52.1,30.7,32.3,26.3,28.8,28.6,30.1,36.3,34.1,34.0,34.0
-240,eix,edison int'l,utilities,rosemead california,53.4,32.1,34.8,38.6,41.4,45.2,46.3,65.5,59.2,71.8,69.7
-241,wec,wec energy group inc,utilities,milwaukee wisconsin,24.4,21.0,24.9,29.4,34.6,36.9,41.3,52.7,51.3,58.5,68.2
-242,es,eversource energy,utilities,springfield massachusetts,31.3,24.1,25.8,31.9,35.7,39.1,42.4,53.5,,55.1,64.6
-243,dte,dte energy co.,utilities,detroit michigan,44.0,35.7,,45.3,53.9,60.1,66.4,86.4,80.2,98.2,113.2
-244,awk,american water works company inc,utilities,voorhees new jersey,,20.9,22.4,25.3,31.5,37.1,42.3,53.3,59.8,72.3,90.8
-245,etr,entergy corp.,utilities,new orleans louisiana,119.5,83.1,81.8,70.8,72.5,63.8,63.3,87.5,68.4,72.9,83.8
-246,aee,ameren corp,utilities,st. louis missouri,54.2,33.3,28.0,28.2,32.8,30.7,36.2,46.1,43.2,52.4,60.9
-247,fe,firstenergy corp,utilities,akron ohio,72.3,48.6,46.5,37.0,42.8,41.8,33.0,39.0,31.7,31.0,31.8
-248,cms,cms energy,utilities,jackson michigan,17.4,10.1,15.7,18.6,21.8,24.4,26.8,34.8,36.1,41.5,49.3
-249,cnp,centerpoint energy,utilities,houston texas,17.1,12.6,14.5,15.7,19.9,19.3,23.2,23.4,18.4,24.6,28.8
-250,lnt,alliant energy corp,utilities,madison wisconsin,20.3,14.6,15.1,36.8,21.8,43.9,25.8,66.4,31.2,37.9,44.4
-251,pnw,pinnacle west capital,utilities,phoenix arizona,42.4,32.1,36.6,41.5,47.8,51.0,52.9,68.3,64.5,77.3,89.5
-252,nrg,nrg energy,utilities,princeton new jersey,43.3,23.3,23.6,19.5,18.0,23.0,,27.0,11.8,12.3,27.5
-253,ni,nisource inc.,utilities,merrillville indiana,18.9,11.0,15.4,17.6,23.4,24.9,32.9,42.4,19.5,22.2,26.5
+0,amzn,amazon inc,consumer discretionary,"seattle, washington",92.6,51.3,134.5,180.0,179.0,250.9,398.8,310.4,675.9,753.7,1179.1
+1,csco,cisco systems,information technology,"san jose, california",27.1,16.3,23.9,20.2,18.6,19.6,22.4,27.8,27.2,30.5,38.2
+2,fb,facebook inc.,information technology,"menlo park, california",,,,,,26.6,54.6,78.0,104.7,116.9,180.2
+3,v,visa inc.,information technology,"san francisco, california",,13.1,21.9,17.6,25.8,37.9,55.7,65.6,77.6,79.5,113.8
+4,intc,intel corp.,information technology,"santa clara, california",26.7,14.7,20.4,21.0,24.5,20.6,26.0,36.3,34.5,36.6,44.6
+5,msft,microsoft corp.,information technology,"redmond, washington",35.6,19.4,30.5,27.9,26.8,26.7,37.4,46.5,55.5,62.6,86.9
+6,vz,verizon communications,telecommunication services,"new york, new york",43.7,33.9,33.1,35.8,39.7,43.3,49.1,46.8,46.2,54.6,52.7
+7,cmcsa,comcast corp.,consumer discretionary,"philadelphia, pennsylvania",9.1,8.4,8.4,11.0,12.2,18.7,26.0,29.0,28.2,34.5,39.7
+8,aapl,apple inc.,information technology,"cupertino, california",28.3,12.2,30.1,46.1,58.8,76.0,80.2,110.4,105.3,116.2,174.0
+9,goog,alphabet inc class c,information technology,"mountain view, california",691.5,307.7,309.7,296.7,332.4,353.3,1120.7,526.4,758.9,786.1,1064.2
+10,t,at&t inc,telecommunication services,"dallas, texas",41.6,28.5,28.0,29.4,30.4,33.7,35.2,33.6,34.4,43.0,38.2
+11,orcl,oracle corp.,information technology,"redwood shores, california",22.6,17.7,24.5,31.3,25.9,33.3,38.3,45.0,36.5,38.6,48.3
+12,mcd,mcdonald's corp.,consumer discretionary,"oak brook, illinois",58.9,62.2,62.4,76.8,98.8,88.2,97.0,93.7,118.1,119.6,174.1
+13,nke,nike,consumer discretionary,"washington county, oregon",16.1,12.8,16.5,21.4,24.2,25.8,39.3,48.1,62.5,52.0,64.8
+14,pcln,priceline inc,consumer discretionary,"norwalk, connecticut",114.9,73.7,218.4,399.6,485.2,620.4,1162.4,1140.2,1275.0,1477.6,1760.0
+15,sbux,starbucks corp.,consumer discretionary,"seattle, washington",10.2,4.7,11.5,16.1,22.6,26.8,39.2,41.0,60.0,55.4,58.3
+16,chtr,charter communications,consumer discretionary,"stamford, connecticut",,,,,,,,,,285.8,322.3
+17,low,lowe's cos.,consumer discretionary,"mooresville north, carolina",22.6,21.5,23.4,25.1,25.5,35.5,49.6,68.8,76.0,71.0,86.7
+18,twx,time warner inc.,consumer discretionary,"new york, new york",49.5,30.2,29.1,32.2,36.3,47.8,69.7,85.4,64.7,96.8,90.3
+19,fox,twenty-first century fox class b,consumer discretionary,"new york, new york",21.3,9.6,15.9,16.4,18.7,26.2,34.6,,27.2,28.0,34.2
+20,foxa,twenty-first century fox class a,consumer discretionary,"new york, new york",21.3,9.1,13.7,14.6,18.4,25.5,35.2,38.4,27.2,28.7,35.0
+21,gm,general motors,consumer discretionary,"detroit, michigan",,,,36.9,21.1,28.8,40.9,34.9,34.0,35.2,41.0
+22,f,ford motor,consumer discretionary,"dearborn, michigan",6.7,2.3,10.0,16.8,,13.0,15.4,15.5,,12.6,12.6
+23,mar,marriott int'l.,consumer discretionary,"bethesda, maryland",34.2,19.5,27.3,41.5,30.0,37.3,49.4,78.0,67.0,82.5,129.8
+24,tjx,tjx companies inc.,consumer discretionary,"framingham, massachusetts",14.4,10.3,18.3,22.2,31.9,42.5,63.7,68.6,70.9,75.5,74.2
+25,ccl,carnival corp.,consumer discretionary,"miami, florida",44.5,24.3,31.7,46.1,33.0,36.8,40.2,45.3,54.5,52.1,66.0
+26,tgt,target corp.,consumer discretionary,"minneapolis, minnesota",50.0,34.5,48.4,60.1,51.1,59.2,63.3,75.9,72.6,72.8,62.6
+27,rost,ross stores,consumer discretionary,"pleasanton, california",6.4,7.4,10.7,15.8,23.6,27.0,37.5,47.1,53.8,65.6,76.0
+28,vfc,v.f. corp.,consumer discretionary,"greensboro north, carolina",17.2,13.7,18.3,21.5,32.4,37.7,62.3,74.9,62.3,53.4,74.4
+29,yum,yum! brands inc,consumer discretionary,"louisville, kentucky",38.3,31.5,35.0,49.1,58.6,66.4,75.6,72.9,73.1,63.2,82.3
+30,rcl,royal caribbean cruises ltd,consumer discretionary,"miami, florida",42.4,13.8,25.3,47.0,25.9,34.0,47.4,82.4,101.2,83.9,125.1
+31,dltr,dollar tree,consumer discretionary,"chesapeake, virginia",8.6,13.9,16.1,28.0,41.2,40.6,56.4,70.4,77.2,77.5,106.3
+32,swk,stanley black & decker,consumer discretionary,"new britain, connecticut",48.5,34.1,51.5,66.9,70.2,74.0,80.7,96.1,106.7,115.8,165.7
+33,dg,dollar general,consumer discretionary,"goodlettsville, tennessee",,,22.4,30.7,41.1,44.1,60.3,70.7,71.9,74.2,90.9
+34,hlt,hilton worldwide holdings inc,consumer discretionary,"tysons corner, virginia",,,,,,,200.3,,192.6,169.7,77.1
+35,cbs,cbs corp.,consumer discretionary,"new york, new york",27.3,8.2,14.1,19.1,27.3,38.1,63.7,55.3,47.1,64.4,58.9
+36,dish,dish network,consumer discretionary,"meridian, colorado",37.7,11.1,20.8,19.7,29.1,36.4,57.9,72.9,57.2,59.7,48.6
+37,aptv,aptiv plc,consumer discretionary,"gillingham kent, united kingdom",,,,,22.2,38.3,60.1,72.7,85.7,67.5,84.4
+38,orly,o'reilly automotive,consumer discretionary,"springfield, missouri",32.4,30.7,38.1,60.4,78.2,89.4,128.7,192.6,253.4,280.8,240.2
+39,mhk,mohawk industries,consumer discretionary,"amsterdam, new york",74.4,43.0,47.6,56.8,,,148.9,,189.4,201.8,274.7
+40,bby,best buy co. inc.,consumer discretionary,"richfield, minnesota",52.7,28.1,39.5,34.3,23.7,,39.9,39.0,30.5,42.8,65.3
+41,azo,autozone inc,consumer discretionary,"memphis, tennessee",119.9,139.5,158.1,272.6,319.8,354.4,477.9,619.1,741.9,791.5,697.1
+42,dhi,d. r. horton,consumer discretionary,"fort worth, texas",13.2,7.1,10.9,11.9,13.0,19.8,22.3,25.3,32.0,27.6,50.6
+43,mgm,mgm resorts international,consumer discretionary,"paradise, nevada",84.0,13.8,9.1,14.9,11.1,11.6,23.5,21.4,22.7,29.5,32.9
+44,expe,expedia inc.,consumer discretionary,"bellevue, washington",31.6,8.2,25.7,23.6,29.7,61.4,69.7,85.4,124.3,112.4,120.9
+45,lb,l brands inc.,consumer discretionary,"columbus, ohio",18.9,10.0,19.2,30.7,39.2,47.1,61.9,86.6,95.8,66.6,58.1
+46,wynn,wynn resorts ltd,consumer discretionary,"paradise, nevada",112.1,42.3,58.2,103.8,114.0,112.5,194.2,148.8,69.2,87.5,166.0
+47,omc,omnicom group,consumer discretionary,"new york, new york",47.5,26.9,39.2,45.8,45.0,50.0,74.4,77.5,75.7,85.1,74.4
+48,nwl,newell brands,consumer discretionary,"sandy springs, georgia",25.9,9.8,,18.2,16.2,22.3,32.4,38.1,44.1,44.9,30.6
+49,len,lennar corp.,consumer discretionary,"miami, florida",17.9,8.7,12.8,18.8,19.9,38.7,39.6,44.8,48.9,42.9,61.4
+50,gpc,genuine parts,consumer discretionary,"atlanta, georgia",46.3,37.9,38.0,51.3,61.7,63.6,83.2,106.6,85.9,95.6,92.0
+51,ulta,ulta salon cosmetics & fragrance inc,consumer discretionary,"bolingbrook, illinois",17.2,8.3,18.2,34.0,64.1,98.3,96.5,127.8,185.0,256.7,218.3
+52,gps,gap inc.,consumer discretionary,"san francisco, california",21.3,13.4,21.0,22.1,18.6,31.0,39.1,42.1,24.7,23.5,33.6
+53,viab,viacom inc.,consumer discretionary,"new york, new york",43.9,19.1,29.7,39.6,45.9,52.7,87.3,75.3,41.2,35.9,30.2
+54,nclh,norwegian cruise line,consumer discretionary,"miami, florida",,,,,,,35.5,46.8,58.6,42.8,54.0
+55,lkq,lkq corporation,consumer discretionary,"chicago, illinois",10.5,5.8,9.8,11.4,15.4,21.1,32.9,28.1,29.6,31.0,39.5
+56,kmx,carmax inc,consumer discretionary,"richmond, virginia",19.8,7.9,24.3,31.9,30.5,37.5,47.0,66.6,54.0,64.8,67.7
+57,tif,tiffany & co.,consumer discretionary,"new york, new york",46.0,23.6,43.0,62.3,66.5,57.3,92.8,106.9,76.3,77.8,101.3
+58,tpr,tapestry inc.,consumer discretionary,"new york, new york",30.6,20.8,36.5,55.3,60.0,55.5,56.1,37.6,32.7,35.5,42.8
+59,whr,whirlpool corp.,consumer discretionary,"benton harbor, michigan",81.6,41.4,80.7,88.8,48.5,101.8,156.9,193.7,146.9,182.9,164.5
+60,wyn,wyndham worldwide,consumer discretionary,"parsippany, new jersey",23.6,6.6,20.2,30.0,37.4,53.2,73.7,85.8,72.7,76.0,112.6
+61,has,hasbro inc.,consumer discretionary,"pawtucket, rhode island",25.6,29.2,32.1,,32.1,35.9,,,67.4,,94.1
+62,dri,darden restaurants,consumer discretionary,"orlando, florida",27.7,28.2,35.1,46.4,44.7,45.1,54.4,58.6,63.6,72.1,88.4
+63,grmn,garmin ltd.,consumer discretionary,"schaffhausen, switzerland",97.0,19.2,30.7,31.0,39.6,40.8,46.2,52.8,37.2,49.2,58.4
+64,bwa,borgwarner,consumer discretionary,"auburn hills, michigan",24.2,10.9,16.6,36.2,32.7,35.8,55.9,55.0,43.2,40.1,51.5
+65,sni,scripps networks interactive inc.,consumer discretionary,"cincinnati, ohio",,22.0,41.5,51.8,43.2,57.9,86.4,75.3,55.2,72.4,83.2
+66,pvh,pvh corp.,consumer discretionary,"new york, new york",36.9,20.1,40.7,63.0,71.2,111.0,136.0,128.2,73.7,91.0,134.0
+67,phm,pulte homes inc.,consumer discretionary,"atlanta, georgia",10.5,10.9,10.0,7.5,6.5,18.2,20.4,21.5,,18.6,33.4
+68,sna,snap-on inc.,consumer discretionary,"kenosha, wisconsin",48.2,39.4,42.3,56.6,51.2,79.0,109.5,136.7,171.4,171.2,168.2
+69,kors,michael kors holdings,consumer discretionary,"new york, new york",,,,,27.2,51.0,81.2,75.1,40.1,43.1,61.7
+70,nwsa,news corp. class a,consumer discretionary,"new york, new york",,,,,,,18.0,15.7,13.4,11.7,16.0
+71,nws,news corp. class b,consumer discretionary,"new york, new york",,,,,,,17.8,15.1,14.0,12.1,16.4
+72,kss,kohl's corp.,consumer discretionary,"menomonee falls, wisconsin",45.8,36.2,53.9,54.3,48.0,43.0,56.8,61.0,47.6,49.8,51.4
+73,cmg,chipotle mexican grill,consumer discretionary,"denver, colorado",147.1,62.0,88.2,212.7,341.3,297.5,532.8,684.5,479.9,374.8,312.1
+74,tsco,tractor supply company,consumer discretionary,"brentwood, tennessee",9.0,9.0,13.2,24.2,34.7,44.2,77.6,78.8,85.5,75.9,68.4
+75,hog,harley-davidson,consumer discretionary,"milwaukee, wisconsin",46.7,17.0,25.2,,39.3,48.8,69.2,,45.4,58.9,50.5
+76,mo,altria group inc,consumer staples,"richmond, virginia",75.6,15.1,19.6,24.6,28.6,31.4,38.4,49.3,58.2,67.6,71.7
+77,khc,kraft heinz co,consumer staples,"pittsburgh, pennsylvania",,,,,,,,,72.8,87.5,79.5
+78,cost,costco wholesale corp.,consumer staples,"issaquah, washington",69.8,52.5,59.2,72.2,84.6,98.7,119.0,141.8,161.5,159.7,192.7
+79,cvs,cvs health,consumer staples,"woonsocket, rhode island",39.8,28.7,32.2,,41.5,48.4,71.6,96.3,97.8,80.4,73.1
+80,wba,walgreens boots alliance,consumer staples,"deerfield, illinois",,,,,,,,76.2,85.2,83.0,71.9
+81,cl,colgate-palmolive,consumer staples,"new york, new york",39.0,34.3,41.1,40.2,45.5,52.3,65.2,69.2,66.6,65.5,74.1
+82,mdlz,mondelez international,consumer staples,"northfield, illinois",,,,,,25.5,35.3,36.3,44.8,44.9,43.4
+83,el,estee lauder cos.,consumer staples,"new york, new york",21.8,15.5,24.2,40.4,56.2,59.9,75.3,76.2,88.1,77.3,129.6
+84,stz,constellation brands,consumer staples,"victor, new york",23.6,15.8,15.9,22.2,20.7,35.4,70.4,98.2,142.4,154.8,224.4
+85,kmb,kimberly-clark,consumer staples,"irving, texas",69.3,52.7,63.7,63.0,73.2,84.4,104.5,115.5,127.3,114.6,118.5
+86,mnst,monster beverage,consumer staples,"corona, california",,,,,,,,,49.7,45.5,64.0
+87,gis,general mills,consumer staples,"golden valley, minnesota",28.5,30.4,35.4,35.6,40.3,40.4,49.9,53.3,57.7,62.1,56.9
+88,syy,sysco corp.,consumer staples,"houston, texas",31.2,22.9,27.9,29.4,29.5,31.7,36.1,39.7,41.0,55.0,61.0
+89,tsn,tyson foods,consumer staples,"springdale, arkansas",15.3,8.8,12.3,17.2,20.3,19.4,33.5,40.1,53.3,62.6,81.3
+90,mmm,3m company,industrials,"st. paul, minnesota",84.3,57.5,82.7,86.3,83.5,92.9,140.3,164.3,150.6,178.1,238.0
+91,hon,honeywell int'l inc.,industrials,"morristown, new jersey",61.6,,39.2,53.2,55.6,63.5,91.4,99.9,103.6,116.2,154.3
+92,unp,union pacific,industrials,"omaha, nebraska",125.6,23.9,32.0,46.3,54.0,62.9,84.0,119.1,78.2,102.5,130.6
+93,ups,united parcel service,industrials,"atlanta, georgia",70.7,55.2,57.4,72.6,,73.7,105.1,111.2,96.2,115.1,118.0
+94,utx,united technologies,industrials,"hartford, connecticut",76.5,53.6,69.4,78.7,,82.0,113.8,115.0,96.1,110.8,126.2
+95,lmt,lockheed martin corp.,industrials,"bethesda, maryland",105.3,84.1,75.4,69.9,82.0,92.3,148.7,192.6,217.2,253.3,322.8
+96,cat,caterpillar inc.,industrials,"peoria, illinois",72.6,44.7,57.0,93.7,94.0,89.6,90.8,91.5,68.0,94.0,146.7
+97,fdx,fedex corporation,industrials,"memphis, tennessee",89.2,64.2,83.5,93.0,,91.7,143.8,173.7,149.0,187.7,240.1
+98,gd,general dynamics,industrials,"falls church, virginia",89.0,57.6,68.2,71.0,68.0,69.3,95.6,137.6,137.4,175.5,198.8
+99,itw,illinois tool works,industrials,"glenview, illinois",53.5,35.1,48.0,53.4,48.0,60.8,84.1,94.7,92.7,122.5,165.2
+100,rtn,raytheon co.,industrials,"waltham, massachusetts",60.7,51.0,51.5,46.3,48.5,57.6,90.7,108.2,124.5,145.2,191.4
+101,noc,northrop grumman corp.,industrials,"west falls church, virginia",78.6,45.0,55.9,64.8,58.7,67.6,114.6,147.4,188.8,234.9,310.5
+102,de,deere & co.,industrials,"moline, illinois",93.1,38.3,54.1,83.1,79.3,86.4,91.3,88.5,76.3,104.1,150.9
+103,csx,csx corp.,industrials,"jacksonville, florida",44.0,32.5,48.5,64.6,22.0,19.7,28.8,36.2,26.0,35.9,52.9
+104,emr,emerson electric company,industrials,"ferguson, missouri",56.7,36.6,42.6,57.2,47.7,53.0,70.2,61.7,47.8,57.0,67.3
+105,nsc,norfolk southern corp.,industrials,"norfolk, virginia",50.4,47.1,52.4,62.8,73.8,61.8,92.8,109.6,84.6,107.0,141.1
+106,dal,delta air lines inc.,industrials,"atlanta, georgia",14.9,11.5,11.4,12.6,,11.9,27.5,49.2,50.7,49.5,56.1
+107,luv,southwest airlines,industrials,"dallas, texas",12.2,8.6,11.4,13.0,8.4,10.2,18.8,42.3,43.1,50.0,64.7
+108,wm,waste management inc.,industrials,"houston, texas",32.7,33.1,33.8,36.9,32.8,33.7,44.9,51.3,53.4,70.5,85.9
+109,jci,johnson controls international,industrials,"cork, ireland",,,,,,,,45.9,33.4,42.4,37.3
+110,etn,eaton corporation,industrials,"dublin, ireland",48.5,,,,,54.2,76.1,68.0,52.0,68.5,77.3
+111,cmi,cummins inc.,industrials,"columbus, indiana",63.7,26.7,45.9,110.0,91.1,108.4,141.0,144.2,88.0,139.8,169.6
+112,rop,roper technologies,industrials,"sarasota, florida",62.5,43.4,52.4,76.4,88.2,111.5,138.7,156.4,189.8,184.9,252.6
+113,ph,parker-hannifin,industrials,"cleveland, ohio",75.3,42.5,53.9,86.3,78.8,85.1,128.6,129.0,97.0,142.6,194.3
+114,ftv,fortive corp,industrials,"everett, washington",,,,,,,,,,53.7,72.1
+115,pcar,paccar inc.,industrials,"bellevue, washington",54.5,28.6,36.3,57.3,38.8,45.2,59.2,68.0,47.4,65.3,69.2
+116,rok,rockwell automation inc.,industrials,"milwaukee, wisconsin",69.0,32.2,47.0,71.7,75.7,84.0,118.2,111.2,102.6,138.5,190.9
+117,aal,american airlines group,industrials,"fort worth, texas",,,,,,,25.3,53.6,42.4,46.3,51.1
+118,rsg,republic services inc,industrials,"phoenix, arizona",31.4,24.8,28.3,29.9,27.6,29.3,33.2,40.3,44.0,56.9,66.1
+119,col,rockwell collins,industrials,"cedar rapids, iowa",72.0,39.1,55.4,58.3,56.2,58.2,73.9,84.5,92.3,93.1,134.5
+120,ir,ingersoll-rand plc,industrials,"dublin, ireland",46.5,17.4,35.7,47.1,32.1,48.0,61.6,63.4,55.3,75.9,86.8
+121,ual,united continental holdings,industrials,"chicago, illinois",35.7,11.0,12.9,23.8,18.9,23.4,37.8,66.9,57.3,72.7,63.8
+122,info,ihs markit ltd.,industrials,"london, united kingdom",,,,,,,,26.4,30.2,35.9,45.5
+123,ctas,cintas corporation,industrials,"mason, ohio",33.6,23.2,26.1,28.0,35.2,40.9,59.6,78.4,91.1,116.3,158.0
+124,ame,ametek inc,industrials,"berwyn, pennsylvania",46.8,13.4,38.2,26.2,28.2,37.6,52.7,52.6,53.6,49.2,71.2
+125,vrsk,verisk analytics,industrials,"jersey city, new jersey",,,30.3,34.1,39.4,51.0,65.7,64.1,76.9,81.3,95.0
+126,fast,fastenal co,industrials,"winona, minnesota",20.2,17.4,20.8,30.0,43.8,46.7,47.5,47.6,40.8,47.0,53.3
+127,dov,dover corp.,industrials,"downers grove, illinois",46.1,32.9,41.6,58.5,59.1,65.7,96.5,71.7,61.3,76.4,97.5
+128,lll,l-3 communications holdings,industrials,"new york, new york",105.9,73.8,87.0,70.5,67.5,76.6,106.9,126.2,119.5,152.3,195.1
+129,txt,textron inc.,industrials,"providence, rhode island",71.3,13.9,18.8,23.6,18.6,24.8,36.8,42.1,42.0,49.3,55.2
+130,tdg,transdigm group,industrials,"cleveland, ohio",45.2,33.6,47.5,72.0,94.1,136.4,161.0,196.4,228.5,250.5,276.6
+131,efx,equifax inc.,industrials,"atlanta, georgia",36.4,26.5,30.9,35.6,38.8,54.1,69.1,80.9,111.4,118.8,119.5
+132,uri,united rentals inc.,industrials,"stamford, connecticut",18.4,9.1,9.8,22.8,29.0,45.5,78.0,102.0,72.5,109.3,164.3
+133,mas,masco corp.,industrials,"taylor, michigan",21.6,11.1,13.8,12.7,11.0,16.7,22.8,25.2,28.3,32.2,42.3
+134,nlsn,nielsen holdings,industrials,"new york, new york",,,,,,,,,46.6,42.3,37.2
+135,gww,grainger (w.w.) inc.,industrials,"lake forest, illinois",87.5,78.8,96.8,138.1,185.6,202.4,255.4,254.9,202.6,234.5,230.0
+136,jbht,j. b. hunt transport services,industrials,"lowell, arkansas",27.6,26.3,32.3,40.8,45.3,59.7,77.3,84.3,73.4,96.8,112.4
+137,pnr,pentair ltd.,industrials,"worsley, uk",,,,,,,,66.4,49.5,58.0,68.2
+138,arnc,arconic inc,industrials,"new york, new york",109.7,33.8,48.4,46.2,27.7,26.0,31.9,47.4,29.6,19.2,25.3
+139,chrw,c. h. robinson worldwide,industrials,"eden prairie, minnesota",54.1,,58.7,80.2,69.8,63.2,58.4,74.9,62.0,72.9,86.2
+140,xyl,xylem inc.,industrials,"white plains, new york",,,,,25.1,27.1,34.6,38.1,36.5,49.7,67.6
+141,expd,expeditors international,industrials,"seattle, washington",44.7,33.3,34.8,54.6,41.3,39.6,44.3,44.6,45.1,53.1,64.4
+142,ksu,kansas city southern,industrials,"kansas city, missouri",34.3,19.1,33.3,47.9,68.7,83.5,123.8,122.0,74.7,80.8,111.0
+143,aos,a.o. smith corp,industrials,"milwaukee, wisconsin",35.1,4.9,7.2,38.1,41.3,15.8,53.9,56.4,76.6,47.5,60.7
+144,fbhs,fortune brands home & security,industrials,"deerfield, illinois",,,,,16.8,29.2,45.7,45.3,55.5,53.9,66.4
+145,alk,alaska air group inc,industrials,"seattle, washington",6.3,7.3,8.6,14.2,18.5,21.5,36.7,59.8,80.5,88.0,70.8
+146,ma,mastercard inc.,information technology,"harrison, new york",21.5,14.3,25.6,22.4,36.8,49.1,83.6,86.2,97.4,105.4,153.4
+147,ibm,international business machines,information technology,"armonk, new york",108.1,84.2,130.9,146.8,186.3,191.6,187.6,160.4,137.6,167.2,152.5
+148,nvda,nvidia corporation,information technology,"santa clara, california",34.0,8.1,18.7,15.4,14.0,12.3,16.0,20.1,33.0,102.0,191.6
+149,avgo,broadcom,information technology,"san jose, california",,,,,,,,,,178.3,265.7
+150,txn,texas instruments,information technology,"dallas, texas",33.4,15.5,26.1,32.5,29.8,30.9,43.9,53.5,54.8,73.6,101.2
+151,acn,accenture plc,information technology,"dublin, ireland",36.0,32.8,41.5,48.5,53.0,66.5,82.2,89.3,104.5,116.5,152.7
+152,qcom,qualcomm inc.,information technology,"san diego, california",39.4,35.8,46.3,49.5,55.3,61.9,74.3,74.3,50.0,65.4,64.8
+153,pypl,paypal,information technology,"san jose, california",,,,,,,,,36.2,40.3,75.7
+154,adbe,adobe systems inc,information technology,"san jose, california",42.7,21.3,36.8,30.8,28.6,37.7,59.9,72.7,93.9,103.5,177.5
+155,nflx,netflix inc.,information technology,"los gatos, california",3.8,4.3,7.9,25.1,10.3,13.2,52.6,48.8,114.4,127.5,190.1
+156,crm,salesforce,information technology,"san francisco, california",15.7,8.0,18.4,33.0,25.3,42.0,55.2,59.3,78.4,70.5,105.5
+157,amat,applied materials inc,information technology,"santa clara, california",17.8,10.1,13.9,,,11.4,17.7,,18.7,31.9,52.5
+158,adp,automatic data processing,information technology,"roseland, new jersey",44.5,39.3,42.8,46.3,54.5,56.9,80.8,83.4,84.7,103.5,118.2
+159,mu,micron technology,information technology,"boise, idaho",,,10.6,8.0,6.8,6.3,,35.0,14.2,22.6,42.4
+160,atvi,activision blizzard,information technology,"santa monica, california",14.9,8.6,11.1,12.4,12.2,10.6,17.8,20.2,38.7,36.6,66.7
+161,ctsh,cognizant technology solutions,information technology,"teaneck, new jersey",17.0,9.0,22.7,36.6,32.9,36.9,50.5,52.7,60.0,56.5,72.1
+162,intu,intuit inc.,information technology,"mountain view, california",31.6,23.8,30.7,49.3,52.5,59.5,76.3,92.2,96.5,114.8,159.7
+163,ebay,ebay inc.,information technology,"san jose, california",33.2,14.0,23.5,27.8,31.3,51.0,54.9,56.1,27.5,29.8,38.4
+164,hpq,hp inc.,information technology,"palo alto, california",50.5,36.3,51.5,42.1,26.6,14.3,28.0,40.1,11.8,14.9,20.9
+165,tel,te connectivity ltd.,information technology,"schaffhausen, switzerland",37.1,16.2,24.6,35.4,31.5,37.1,55.1,63.3,64.6,69.0,96.2
+166,ea,electronic arts,information technology,"redwood city, california",58.4,16.0,17.8,16.4,21.3,14.5,22.9,47.0,68.7,79.2,109.3
+167,adi,analog devices inc.,information technology,"norwood, massachusetts",,,,,,42.1,50.9,55.5,55.3,72.5,86.7
+168,fis,fidelity national information services,information technology,"jacksonville, florida",41.6,16.3,23.4,27.4,26.7,34.8,53.7,62.2,60.6,77.0,94.8
+169,lrcx,lam research,information technology,"fremont, california",43.2,21.3,39.2,51.8,36.8,36.1,54.5,79.3,79.4,107.3,186.3
+170,glw,corning inc.,information technology,"corning, new york",24.0,9.5,19.3,19.3,13.0,12.6,,22.9,18.3,24.3,32.1
+171,fisv,fiserv inc,information technology,"brookfield, wisconsin",27.7,18.2,24.2,29.3,29.3,39.5,59.1,71.0,91.5,107.3,132.0
+172,aph,amphenol corp,information technology,"wallingford, connecticut",46.4,24.0,46.2,105.6,91.9,129.4,178.4,53.8,52.2,67.4,89.1
+173,dxc,dxc technology,information technology,"tysons corner, virginia",,,,,,,,,,,95.3
+174,payx,paychex inc.,information technology,"penfield, new york",36.2,26.3,30.6,30.9,30.4,31.1,45.5,46.2,52.9,61.1,69.8
+175,wdc,western digital,information technology,"irvine, california",30.2,11.5,44.2,33.9,31.0,42.5,83.9,110.7,60.1,69.4,81.6
+176,hpe,hewlett packard enterprise,information technology,"palo alto, california",,,,,,,,,15.2,23.2,14.4
+177,adsk,autodesk inc,information technology,"san rafael, california",49.8,19.7,25.4,38.2,30.8,35.4,50.3,60.1,60.9,76.2,108.4
+178,rht,red hat inc.,information technology,"raleigh north, carolina",20.8,13.2,30.9,45.7,41.7,53.0,56.0,69.1,82.8,70.1,128.8
+179,mchp,microchip technology,information technology,"chandler, arizona",31.4,19.5,29.1,34.2,35.8,32.6,44.8,45.1,46.5,63.9,86.8
+180,symc,symantec corp.,information technology,"mountain view, california",16.1,13.5,17.9,16.7,15.8,18.8,23.6,25.7,21.0,24.0,29.0
+181,swks,skyworks solutions,information technology,"woburn, massachusetts",8.5,5.5,14.2,28.6,16.8,,28.6,72.7,,75.2,94.6
+182,klac,kla-tencor corp.,information technology,"milpitas, california",48.2,21.8,36.2,38.6,47.5,47.8,64.5,70.3,69.4,79.4,105.6
+183,xlnx,xilinx inc,information technology,"san jose, california",21.9,17.8,25.1,29.0,32.4,35.9,45.9,43.3,47.0,59.1,68.0
+184,hrs,harris corporation,information technology,"melbourne, florida",62.7,38.1,47.6,45.3,36.7,49.0,69.8,71.8,86.9,102.7,144.1
+185,gpn,global payments inc,information technology,"atlanta, georgia",23.3,16.4,26.9,23.1,24.1,22.7,32.5,40.4,64.5,70.5,100.8
+186,ntap,netapp,information technology,"sunnyvale, california",25.0,14.0,34.4,55.0,36.8,33.6,41.1,41.5,26.5,35.6,57.3
+187,msi,motorola solutions inc.,information technology,"schaumburg, illinois",65.7,18.1,31.8,37.2,46.6,55.7,67.5,67.1,68.5,83.6,93.2
+188,tss,total system services,information technology,"columbus, georgia",28.0,14.0,17.3,15.4,19.9,21.4,33.3,34.0,49.8,51.4,77.8
+189,ca,ca inc.,information technology,"islandia, new york",25.0,18.5,22.5,24.4,20.3,22.0,33.7,30.5,28.6,32.3,33.7
+190,ads,alliance data systems,information technology,"plano, texas",75.0,46.5,64.6,71.0,102.8,144.8,262.9,286.1,276.6,233.0,239.8
+191,ctxs,citrix systems,information technology,"fort lauderdale, florida",19.0,11.8,20.8,34.2,31.0,32.8,31.6,31.9,37.8,,87.5
+192,snps,synopsys inc.,information technology,"mountain view, california",25.9,18.5,22.3,26.9,27.0,31.8,40.6,43.5,45.6,59.4,87.9
+193,anss,ansys,information technology,"canonsburg, pennsylvania",41.5,27.9,43.5,52.1,57.4,67.3,87.2,82.0,92.5,93.4,148.0
+194,stx,seagate technology,information technology,"dublin, ireland",25.5,4.4,18.2,15.0,16.4,30.4,56.2,66.5,36.7,39.6,42.0
+195,cdns,cadence design systems,information technology,"san jose, california",17.0,3.7,6.0,8.3,10.3,13.5,14.0,19.0,20.8,25.3,43.7
+196,vrsn,verisign inc.,information technology,"dulles, virginia",37.6,19.1,24.2,32.7,35.8,38.8,59.8,57.0,87.4,77.3,115.0
+197,it,gartner inc,information technology,"stamford, connecticut",17.6,17.8,18.0,,34.7,46.0,,84.2,90.7,99.9,122.5
+198,akam,akamai technologies inc,information technology,"cambridge, massachusetts",34.6,15.1,25.3,47.1,32.9,40.9,47.2,63.0,52.6,67.6,57.8
+199,jnpr,juniper networks,information technology,"sunnyvale, california",33.2,17.5,26.7,36.9,21.0,19.7,22.6,22.3,27.6,28.6,28.4
+200,amd,advanced micro devices inc,information technology,"sunnyvale, california",7.5,2.2,9.7,8.2,5.5,2.4,3.9,2.7,2.9,11.4,10.3
+201,wu,western union co,information technology,"englewood, colorado",24.3,14.3,18.9,18.6,18.6,13.6,17.3,17.9,17.9,22.0,19.5
+202,dwdp,dowdupont,materials,"midland, michigan",,,,,,,,,,,70.0
+203,mon,monsanto co.,materials,"creve coeur, missouri",111.7,70.4,81.8,69.6,71.9,94.7,116.6,119.5,98.5,105.3,117.4
+204,px,praxair inc.,materials,"danbury, connecticut",88.7,59.4,80.3,95.5,107.9,109.5,130.0,129.6,102.4,116.9,149.6
+205,lyb,lyondellbasell,materials,"rotterdam, netherlands",,,,34.4,33.5,57.1,80.3,79.4,86.9,86.9,106.0
+206,ecl,ecolab inc.,materials,"st. paul, minnesota",51.2,35.2,44.6,50.4,58.0,71.9,104.3,104.5,114.4,118.0,135.2
+207,shw,sherwin-williams,materials,"cleveland, ohio",58.0,59.8,61.7,83.8,91.0,153.8,183.5,263.0,259.6,274.5,403.8
+208,apd,air products & chemicals inc,materials,"allentown, pennsylvania",98.6,50.3,81.1,91.0,86.4,84.0,111.8,144.2,130.1,143.4,160.4
+209,ppg,ppg industries,materials,"pittsburgh, pennsylvania",140.5,84.9,117.1,168.1,170.2,270.7,94.8,115.6,98.8,95.3,115.1
+210,fcx,freeport-mcmoran inc.,materials,"phoenix, arizona",51.2,12.2,40.1,60.0,39.5,34.2,37.7,23.4,6.8,13.8,17.0
+211,ip,international paper,materials,"memphis, tennessee",32.4,11.8,26.8,27.2,30.0,39.8,49.0,53.6,37.7,53.4,56.3
+212,nue,nucor corp.,materials,"charlotte north, carolina",59.2,46.2,46.7,43.8,40.5,43.2,53.4,49.1,40.3,59.6,60.1
+213,nem,newmont mining corporation,materials,"denver, colorado",48.8,40.7,47.3,61.4,62.1,46.4,23.0,18.9,18.0,34.6,35.9
+214,wrk,westrock company,materials,"richmond, virginia",,,,,,,,,45.6,51.2,63.1
+215,vmc,vulcan materials,materials,"birmingham, alabama",79.1,69.6,52.7,44.4,39.7,52.1,59.4,65.7,95.0,124.6,120.8
+216,alb,albemarle corp,materials,"baton rouge, louisiana",41.3,22.3,36.4,55.8,52.7,62.1,63.4,60.1,56.0,88.1,129.6
+217,bll,ball corp,materials,"broomfield, colorado",11.3,10.4,12.9,17.0,18.2,22.4,25.8,34.1,36.4,37.9,39.4
+218,emn,eastman chemical,materials,"kingsport, tennessee",30.5,15.9,30.1,42.0,40.2,68.1,80.7,75.9,67.5,75.9,90.2
+219,mlm,martin marietta materials,materials,"raleigh north, carolina",132.6,97.1,89.4,92.2,75.7,94.3,99.9,110.3,136.6,223.3,204.4
+220,fmc,fmc corporation,materials,"philadelphia, pennsylvania",27.3,22.4,27.9,39.9,43.8,58.5,75.5,57.0,39.1,57.0,92.2
+221,iff,intl flavors & fragrances,materials,"new york, new york",48.1,29.7,41.1,55.6,52.9,66.5,86.0,101.4,119.6,117.2,154.2
+222,pkg,packaging corporation of america,materials,"lake forest, illinois",28.2,13.5,23.0,25.8,25.2,38.5,63.3,78.1,63.1,85.0,115.3
+223,avy,avery dennison corp,materials,"glendale, california",53.1,32.7,36.5,42.3,29.3,34.9,50.2,51.9,62.7,70.1,115.9
+224,cf,cf industries holdings inc,materials,"deerfield, illinois",22.0,9.8,18.2,27.0,30.8,40.6,46.6,54.5,40.8,31.9,41.1
+225,see,sealed air,materials,"elmwood park, new jersey",23.1,14.9,21.9,25.5,17.4,17.5,34.1,42.4,44.6,46.5,48.7
+226,mos,the mosaic company,materials,"plymouth, minnesota",94.3,34.6,59.7,76.4,52.6,56.6,47.3,45.7,27.6,29.5,24.9
+227,ctl,centurylink inc,telecommunication services,"monroe, louisiana",41.5,27.3,36.2,46.2,37.3,39.1,31.9,39.6,25.2,25.4,17.0
+228,nee,nextera energy,utilities,"juno beach, florida",67.8,50.3,52.8,52.0,59.0,69.2,85.6,106.3,103.9,118.7,158.4
+229,duk,duke energy,utilities,"charlotte north, carolina",60.5,45.0,51.6,53.4,64.9,63.8,69.0,83.5,71.4,77.7,87.8
+230,d,dominion energy,utilities,"richmond, virginia",47.5,35.8,38.9,42.7,52.5,51.8,64.7,76.9,67.6,76.3,84.9
+231,so,southern co.,utilities,"atlanta, georgia",38.8,37.0,33.3,38.2,45.0,42.8,41.1,49.1,46.8,49.0,51.3
+232,exc,exelon corp.,utilities,"chicago, illinois",81.6,55.6,48.9,41.6,42.1,29.7,27.4,37.1,27.8,35.2,40.7
+233,aep,american electric power,utilities,"columbus, ohio",46.6,33.3,34.8,36.0,40.8,42.7,46.7,60.7,58.3,,76.5
+234,sre,sempra energy,utilities,"san diego, california",61.9,42.6,56.0,52.5,54.8,70.9,89.8,111.4,94.0,101.1,116.5
+235,ed,consolidated edison,utilities,"new york, new york",48.9,38.9,45.4,49.6,60.7,55.5,55.3,66.0,64.3,73.6,88.2
+236,pcg,pg&e corp.,utilities,"san francisco, california",43.1,38.7,44.7,47.8,40.8,40.2,40.3,53.2,53.2,60.4,53.1
+237,peg,public serv. enterprise inc.,utilities,"newark, new jersey",49.1,29.2,33.3,31.8,31.8,30.6,32.0,41.4,38.7,43.4,52.3
+238,xel,xcel energy inc,utilities,"minneapolis, minnesota",22.6,18.6,21.2,23.6,27.3,26.7,27.9,35.9,35.9,40.6,50.8
+239,ppl,ppl corp.,utilities,"allentown, pennsylvania",52.1,30.7,32.3,26.3,28.8,28.6,30.1,36.3,34.1,34.0,34.0
+240,eix,edison int'l,utilities,"rosemead, california",53.4,32.1,34.8,38.6,41.4,45.2,46.3,65.5,59.2,71.8,69.7
+241,wec,wec energy group inc,utilities,"milwaukee, wisconsin",24.4,21.0,24.9,29.4,34.6,36.9,41.3,52.7,51.3,58.5,68.2
+242,es,eversource energy,utilities,"springfield, massachusetts",31.3,24.1,25.8,31.9,35.7,39.1,42.4,53.5,,55.1,64.6
+243,dte,dte energy co.,utilities,"detroit, michigan",44.0,35.7,,45.3,53.9,60.1,66.4,86.4,80.2,98.2,113.2
+244,awk,american water works company inc,utilities,"voorhees, new jersey",,20.9,22.4,25.3,31.5,37.1,42.3,53.3,59.8,72.3,90.8
+245,etr,entergy corp.,utilities,"new orleans, louisiana",119.5,83.1,81.8,70.8,72.5,63.8,63.3,87.5,68.4,72.9,83.8
+246,aee,ameren corp,utilities,"st. louis, missouri",54.2,33.3,28.0,28.2,32.8,30.7,36.2,46.1,43.2,52.4,60.9
+247,fe,firstenergy corp,utilities,"akron, ohio",72.3,48.6,46.5,37.0,42.8,41.8,33.0,39.0,31.7,31.0,31.8
+248,cms,cms energy,utilities,"jackson, michigan",17.4,10.1,15.7,18.6,21.8,24.4,26.8,34.8,36.1,41.5,49.3
+249,cnp,centerpoint energy,utilities,"houston, texas",17.1,12.6,14.5,15.7,19.9,19.3,23.2,23.4,18.4,24.6,28.8
+250,lnt,alliant energy corp,utilities,"madison, wisconsin",20.3,14.6,15.1,36.8,21.8,43.9,25.8,66.4,31.2,37.9,44.4
+251,pnw,pinnacle west capital,utilities,"phoenix, arizona",42.4,32.1,36.6,41.5,47.8,51.0,52.9,68.3,64.5,77.3,89.5
+252,nrg,nrg energy,utilities,"princeton, new jersey",43.3,23.3,23.6,19.5,18.0,23.0,,27.0,11.8,12.3,27.5
+253,ni,nisource inc.,utilities,"merrillville, indiana",18.9,11.0,15.4,17.6,23.4,24.9,32.9,42.4,19.5,22.2,26.5
